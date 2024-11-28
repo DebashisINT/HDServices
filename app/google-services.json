@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "463188093937",
+    "project_id": "hd-services-ea9fb",
+    "storage_bucket": "hd-services-ea9fb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463188093937:android:75d6f2c27e8b58fc07f250",
+        "android_client_info": {
+          "package_name": "com.breezefieldhdservices"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx1xBZ5oyv76lEP5n_DzKx2yrp-r7UzWI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
